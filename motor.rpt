@@ -1,0 +1,17 @@
+** Drc report for /home/jonas/Projekte/motor/motor/motor.kicad_pcb **
+** Created on 2021-03-19 17:09:00 **
+
+** Found 2 DRC errors **
+ErrType(19): Pad nahe Pad
+    @ (200,765 mm,77,470 mm): Pad 1 auf B.Cu, Keine Kupferfläche von R1
+    @ (201,735 mm,77,470 mm): Pad 2 auf B.Cu, Keine Kupferfläche von R1
+ErrType(19): Pad nahe Pad
+    @ (200,765 mm,80,000 mm): Pad 1 auf B.Cu, Keine Kupferfläche von R3
+    @ (201,735 mm,80,000 mm): Pad 2 auf B.Cu, Keine Kupferfläche von R3
+
+** Found 1 unconnected pads **
+ErrType(2): Nicht verbundene Elemente
+    @ (216,290 mm,53,848 mm): Leiterbahn 1,500 mm, Netz [VCC] (27) auf Lage B.Cu, Länge: 6,105 mm
+    @ (217,814 mm,53,848 mm): Pad 1 auf B.Cu, Keine Kupferfläche von D1
+
+** End of Report **
